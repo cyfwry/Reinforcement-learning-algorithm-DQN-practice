@@ -82,8 +82,8 @@ Although I don’t know the highest score, a good model should meet two requirem
 
 ## Result
 
-![](gif\example1.gif)
+![](https://github.com/cyfwry/Reinforcement-learning-algorithm-DQN-practice/raw/master/gif/example1.gif)
 
-![](gif\example2.gif)
+![](https://github.com/cyfwry/Reinforcement-learning-algorithm-DQN-practice/raw/master/gif/example1.gif)
 
 As you can see, the ball may have different speeds.
